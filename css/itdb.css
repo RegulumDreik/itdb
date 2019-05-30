@@ -1055,14 +1055,14 @@ text-align:left;
 div.labellist a{
   color:#2233DD;
 }
-
-div.labellist option{
 /*
+div.labellist option{
+
   background:#000;
   color:#fff;
-*/
-}
 
+}
+*/
 div.labellist {
   border-radius:10px;
   width:645px;
