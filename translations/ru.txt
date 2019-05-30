@@ -1,0 +1,389 @@
+0:black, 255:white#0:чёрный, 255:белый
+About#Информация
+Accounting#Бухгалтерия
+Add Agent#Добавить Контрагента
+Add Contract#Добавить Контракт
+Add File#Добавить Файл
+Add hierarchical or sibling relations to: parts, cards, monitors, et.c.#Добавить иерархические или одноуровневые отношения для: запчастией, карт, мониторов, и т.д.
+Add Invoice#Добавить Инвойс
+Add new Agent#Новый Контрагент
+Add new Contract#Создать Контракт
+Add new File#Добавить новый Файл
+Add new Invoice#Новый инвойс
+Add new item#Новое Оборудование
+Add new Item#Новое Оборудование
+Add New Item#Новое Оборудование
+Add new Location#Новое Место
+Add new software#Новое П/О
+Add new Software#Новое П/О
+Address, Phone number, other info, etc#Адресс, Телеофнный номер, прочая информация
+Add Row#Добавить строку
+Add Software#Создать П/О
+Add/View#Просмотр/добавление стоек
+Add#Создать
+Agent Properties#Свойства Контрагента
+Agents#Контрагенты
+Area Names/Offices#Имена Мест/Офисы
+Area/Room#Места/Команты
+Areas: rooms, offices#Места: Команты, Офисы
+Are you sure you want to delete this row ?#Вы уверены, что хотите удалить эту строку?
+Associated Files#Связаные файлы
+Associated Items#Связаное Оборудование
+Associated Software#Связаное П/О
+Associated#Связаное
+Associate#Связь
+Associations (items/racks)#Связи (Оборудование/Стойки)
+Associations Overview#Просмотр Связей
+Associations#Связи
+Blank passwords prohibit login#Пустой пароль запрещает вход
+Border Color (0-255)#Цвет границы (0-255)
+Bottom Margin#Нижний отступ
+<br><br>In the PDF printing dialog, <br>set <b>'Page Scaling'</b> to <b>'None'</b>, <br>and <b>uncheck</b> 'auto-rotate & center'</b>#<br><br>В диалоговом окне печати PDF<br>установите <b>"Масштабирование страницы"</b> в <b>"Нет"</b>и <br><b>снимите</b> флажок "Автоповрот и центр"</b>
+Browse Data#Просмотр данных
+Browse#Просмотр
+Building Name#Название здания
+Buyer#Покупатель
+Cannot add log entries to unsaved items.#Невозможно добавить запись журнала для несохраненного оборудования.
+Changes are saved immediately.<br>Removing tags removes associations not Tags. Use the Tags menu for that.#Изменения сохраняются немедленно.<br>Удаление тегов не удаляет сами теги. Используйте меню тегов для этого.
+Click on Item count column on the left to display associated items#Нажмите на столбец количество элементов слева, чтобы отобразить связанные элементы
+Click on Software count column on the left to display associated software#Нажмите на колонку Software count слева, чтобы отобразить соответствующее П/О
+Click 'Show Labels'#Нажмите "Показать ярлыки"
+Cntrl+Click to select multiple roles for an agent <br><br><u>Vendor & Buyer</u>: will be listed in invoices & Contracts <br><br><u>H/W Manuf.</u>: will be listed in items editing <br><br><u>S/W Manuf.</u>: will be listed in software editing <br><br><u>Contractor</u>: will be listed in contracts#Cntrl + щелкните, чтобы выбрать несколько ролей для агента <br><br><u>Поставщик и покупатель</u>: будут перечислены в счетах-фактурах и контрактах. <br><br><u>Производители оборудования</u>: будут указаны в редактировании оборудования <br><br><u>Подрядчик</u>: будет указан в контрактах
+Cntrl+Click to select multiple roles for an agent#Cntrl + щелкните, чтобы выбрать несколько ролей для агента
+Columns#Столбцы
+Comments#Комментарии
+Configure contract types#Настройте типы контрактов
+Configure Item Types#Настиройте виды оборудования
+Configure Status Types#Настройте Статусы
+Contact Info#Контактная информация
+Contacts#Контакты
+Contact#Контакт
+Contract Associations#Связанные контракты
+Contract Data#Данные о контракте
+Contract Description#Описание контракта
+Contract number is missing#Номер контракта не указан
+Contractor is missing#Контрагент не указан
+Contractor#Контрагент
+Contract Properties#Настройки контракта
+CONTRACTS#КОНТРАКТЫ
+Contracts#Контракты
+Contract Title is missing#Название Контракта не указан
+Contract Type is missing#Тип контракта не указан
+Contract Types#Тип контракта
+Contr. Types#Тип контракта
+Cores/CPU#Ядра/Процессоры
+Cores per CPU (used for licensing)#Ядра на процессор (используется для лицензий)
+CPU Model#Модель процессора
+Current End Date of contract is missing#Текущая дата истечения контракта не указана
+Current EndDate#Дата истечения контракта
+Data Browser#Дата браузер
+Date Entered#Дата внесения
+Date of Purchase#Дата покупки
+Date of purhcase is missing#Дата покупки не указана
+Date#Дата
+Delete Event?#Удалить событие?
+Delete#Удалить
+Depth of rack occupation. (F)ront, (M)iddle, (B)ack#Глубина расположения в стойке (П)ередняя, (С)редняя, (Д)альняя
+Depth#Глубина
+describe the purpose of this item#Опишите предназначение этого оборудования
+Description#Описание
+DNS#DNS
+DnsName#DnsName
+DNS Name#DNS Name
+DnsName#DnsName
+Documents, Manuals, Offers, Licenses, ...#Документы, Руководства, Предложения, Лицензии, ...
+Download a complete installation backup (much larger)#Скачать полный бэкап приложения (намного больше)
+Download & print the resulting PDF#Скачать и напечатать результаты в PDF
+Download DataBase file. Contains all data except uploaded files/documents#Скачать копию базы данных. Содержит всё кроме загруженных файлов/документов
+Download#Скачать
+Do you really want to remove this row?#Вы действитеьно хотите удалить эту строку
+Edit Contract Types#Редактировать виды контрактов
+Edit ID#ID
+Edit Item Types#Редактировать виды оборудования
+Edit Software#Редактировать П/О
+Edit Status Types#Редактировать типы Статусов
+edit tags#Редактировать теги
+Edit Tags#Редактировать теги
+Edit#Редактировать
+Effective date#Дата вступления в силу
+e.g. like donator, etc. Vendor info is best to be provided in the related invoice#например как даритель, или что-то подобное. Инфорацию о поставщике лучше отобразить в связаном инвойсе
+Email#E-Mail
+End Date#Срок действия
+End Date after#Срок действия после
+End Date before#Срок действия до
+End#Окончание
+Entered By#Введённые
+enter text to filter listed items#введите текст чтобы отфильтровать оборудование
+Event End#Завершение события
+Event History#История событий
+Event Start#Начало события
+File Maintenance#Изменение файлов
+Filename#Имя файла
+Files#Файлы
+File title is missing#Название файла не указана
+File Type is missing#Тип файла не указан
+File#Файл
+Filter#Фильтр
+Find#Поиск
+Floor Plan#План этажа
+Floor#Этаж
+FontSize#Размер Шрифта
+Full Access#Полный доступ
+Function#Функция
+GO#Вход
+Hardware#Апаратура
+HDs (TB)#Жесткий диск (TB)
+Header FontSize#Размер заголовка
+Header (from conf.php)#Заголовок (из conf.php)
+Height#Высота
+Home#Домой
+Horz. Pitch#Отступ по горизонтали
+How is this item used. e.g.: Video Encoder#Как это оборудование используется (напрмиер: Кодирование видео)
+how many items are assigned to this rack#Сколько предметов назначенны в эту стойку
+H/W & S/W Manufacturers & Vendors, Buyers, Contractors#Производители П/О, Аппаратуры и поставщики, покупатели, контрагенты
+H/W Manufacturer#Производитель аппаратуры
+[id desc]#[Описание ID]
+ID FontSize#Размер шрифта ID
+[id]#[ID]
+ID#ID
+Installed Into#Установлено в
+Installed on#Установлено на
+Installed#Установлено
+Inter-Item Associations#Связи с оборудованием
+Intrinsic Properties#Внутренние свойства
+Invoice Associations#Связи с инвойсами
+Invoice  Data#Данные инвойса
+Invoice Description / File(s)#Описание инвойса / Файл(ы)
+Invoice Properties#Свойства инвойса
+Invoices (buyers)#Инвойсы (покупатели)
+INVOICES (buyer)#ИНВОЙСЫ (Покупатель)
+Invoices (vendors)#Инвойсы (поставщики)
+INVOICES (vendor)#ИНВОЙСЫ (поставщики)
+INVOICES#ИНВОЙСЫ
+Invoices#Инвойсы
+Invoice#Инвойсы
+IPv4#IPv4
+IPv6#IPv6
+Is Part#Это деталь
+Issue Date#Дата выпуска
+Item Associations#Связь с оборудованием
+Item Data#Данные оборудования
+Item list per location#Список оборудования по местораположению
+Items without invoices#Оборудование без инвойсов
+Items without location#Оборудование без места
+Items with warranty end date close to (before or after) today#Предметы с истекающей или истёкшей гарантией
+ITEMS#ОБОРУДОВАНИЕ
+items#оборудование
+Items#Оборудование
+Items#Оборудование
+Item Types#Виды оборудования
+Item Type#Виды оборудования
+Label properties#Свойства ярлыков
+Labels#Ярлыки
+labels#Ярлыки
+Label#Ярлык
+Left Margin#Левый отступ
+Licencing Info#Информация о лицензировании
+License Info#Информация о лицензии
+List Invoices#Список инвойсов
+List items with defined IPv4 numbers#Предметы с заданными IPv4 адрессами
+List Items#Список оборудования
+List Software#Список П/О
+Loading data from server#Загрузка данных с сервера
+Location Name/Building Name#Название месторасположения/здания
+Location Properties#Свойства месторасположения
+Locations#Места
+Location#Место
+Log/Journal#Журнал
+Logout#выход
+MACs#MACs
+maintenance end date#окончание обслуживания
+Maintenance Instructions#Рекомендации по обслуживанию
+Maint. End#Конец Обслуж.
+Manage Agents#Управление контрагентами
+Manage item locations#Управление ресторасположением оборудования
+Manage various parameters#Управление прочими параметрами
+Manage your contracts <br> Support, Licenses, Leases, etc#Управление контрактами <br> Поддержкой, Лицензиями, Арендами, и т.д.
+Manage your H/W items <br> PCs, Switches, Phones, etc#Управление оборудованием <br> ПК, Свитчами, телефонами и т.д.
+Manage your Invoices#Управление инвойсами
+Manage your software#Управление П/О
+Manufacturer is missing#Производитель не указан
+Manufacturer#Произваодитель
+[model]#[модель]
+Model#модель
+Name#Название
+Network Ports#Сетевой порт
+Network#Сеть
+New#Новый
+Notes#Комментарий
+No#НЕТ
+Numbering#Нумерация
+Number of cores per CPU (used for licensing)#Количество ядер на процессор (используется для лицензий)
+Number of installed Software per Manufacturer (Agent)#Количество установленного П/О по производителю (контрагенту)
+Number of items per Location#Количество оборудования по месторасположению
+Number of items per Manufacturer (Agent)#Количество оборудования по производителю (контрагенту)
+Number of Items under support#Количество оборудования на поддержке
+Number#Количество
+Occupation#Занятость
+Order By#Отсортировать по
+Order No#Порядк №
+Order No#Порядк №
+Order Num# Порядковый номер
+order: status, id descending, item type, manufacturer#Порядок: Статус, ID, Описание, вид оборудования, производитель
+order: status, id, item type, manufacturer#Порядок: Статус, ID, вид оборудования, производитель
+order: status, item type, manufacturer,id#Порядок: Статус, вид оборудования, производитель, ID
+order: status, model, item type, manufacturer#Порядок: Статус, вид оборудования, производитель
+Other Info#Дополнительная информация
+Parent ID#Родительский ID
+Parent#Родитель
+Password#Пароль
+Patch Panel Port#Порт патч-панели
+Phone numbers#Телефонные номера
+Please check if this item can be rackmounted#Пожалуйста отметьте если это оборудование может устанавливаться в стойку
+Please select item type#Выберите вид оборудования
+Please specify if this item is a part of another#Пожалуйста отметьте если это оборудование часть другого.
+Populated from H/W Manufacturers defined in agents menu#Наполняется из списка производителей аппаратуры определённых в контрагентах
+populated from items of type switch or router#Наполняется из оборудования отмеченного как свитч или роутер
+Populate list from the Item Types menu#Наполняется из списка видов оборудования
+Preset Name#Название пресета
+Presets#Пресет
+Print Labels#Печать ярлыков
+Property#Собственность
+Ptch.PnlPrt#Порт патч-панели
+Purchace Price (#Закупочная цена (
+Purchase Date#Дата закупки
+PurchaseDate#ДатаЗакупки
+PurchPrice#ЦенаЗакуп
+QTY#Кол
+Quantity#Количество
+Rackmountable#Устанваливаемое в стойку
+Rack Pos. (topmost)#Позиция в стойке (сверху)
+Racks#Стойки
+Rack#Стойка
+RAM (GB)#ОЗУ (GB)
+Read Only#Только просмотр
+Recent History#История
+Related#Связаные
+Rel#Свз
+RemAdmIP#RemAdmIP
+Remote Administration IP#IP удаленного администрирования
+Renewals#Обновления
+Reports#Отчёты
+Right Margin#Правый отступ
+Role#Роль
+Rows#Строки
+Save Invoice#Сохранить инвойс
+Save new location first to define areas onto it#Сохраните местрасположение, прежде чем добавить в него места.
+Save Preset#Сохранить пресет
+Save#Сохранить
+Select & Print#Выбрать и напечатать
+select and print labels for your items#выбрать и напечатать ярлыки для вашего оборудования
+Select Cores/CPU#Выберите Ядра/ЦПУ
+Select items from the list above#Выберите оборудование из списка выше
+Select Items#Выберите оборудование
+Select Label properties (manual or preset)#Выберите параметры ярлыков (вручную или пресетом)
+Select Report#Выберите отчёт
+Select systems where this software is currently installed. Only items with 'software support' in their item type are shown.#Выберите системы где сейчас установлено это П/О. Будут отображены только предметы с "Поддержкой П/О"  в свойствах типа оборудования.
+Select User#Выберите пользователя
+Select 'YES' if software can be installed <b>on</b> this item.<br> Only items supporting software are listed when <br>performing software - item associations#Выберите "ДА" если П/О может устанавливаться на это оборудования<br> Только оборудование поддерживающие установку П/О будут отображаться для <br> связывания обрудование - П/О
+Select#Выберите
+Settings#Настройки
+Shop/Origin#Магазин/Происхождение
+show also this text on printable labels#тоже отображается на печатаемых ярлыках
+Show Labels#Показать ярлыки
+Sibling#Родственный
+Size (U)#Размер (U)
+Skip#Пропустить
+S/N 2#S/N 2
+S/N#S/N
+Software Associations#Связь с  П/О
+Software Data#Информация о П/О
+Software title is missing#П/О не указано
+Software Version is missing#Версия П/О не указана
+SOFTWARE#ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
+Software#П/О
+Special maintenance instructions#Особые отметки для обслуживания
+Specify model#Определите модель
+Specify user responsible for this item#Определите пользователя ответственного за это оборудование
+Start Date of contract is missing#Дата вступления в силу не указана
+Start Date#Вступает в силу
+Start#Начать
+Status Types#Типы статусов
+Status#Статус
+suggested resolution: 1024 pixels for A4 scans#Поддерживает разрешение: 1024 px для сканов A4
+Support and Maintanance, Leases, ...#Поддержка и обслуживание, аренды ...
+Supports<br>Software#Поддерживает П/О
+Switch Port#Порт коммутатора
+Switch#Коммутатор
+S/W Manufacturer is missing#Производитель П/О не указан
+S/W Manufacturer#Разработчик П/О
+Tags#Теги
+TAG#ТЕГ
+taken from related invoice#взято из связанного инвойса
+Text Padding#Отступ текста
+Title/Ver.#Название/Вер.
+Title#Название
+Top Margin#Верхний отступ
+Total Cost#Суммарная стоимость
+Tree Explorer#Обзор древом
+Type Names#Имена Типов
+Type(s)#Тип(ы)
+[type]#[Тип]
+Type#Тип
+Upload a File#Загрузить файл
+Upload a Floor Plan#Загрузить план этажа
+Uploaded by#Загружено
+Upload Files#Загрузить файлы
+Usage#Использование
+User Description#Описание пользователя
+Username#Имя пользователя
+User responsible for this item#Пользователь ответственный за оборудование
+Users are used for both web login and as item assignees#Пользователи используются и для входа в вебверсию и для назначения оборудования
+Users, Tags#Пользователи, теги
+Users#Пользователи
+User#Пользователь
+use when the top labels have already been printed#используется если верхние ярлыки уже напечатаны
+Value#Значение
+Vendors/Buyers/ Manufacturers#Поставщики/Покупатели/Производители
+Vendor#Поставщик
+Version#Версия
+Vert. Pitch#Вертикальный отступ
+View/Edit Subtypes#Просмотр/редактирование подвидов
+View items by type, by user, by agent#Просмотр оборудования по виду, по пользователю, по контрагенту.
+View Reports#Просмотреть отчёты
+View#Просмотреть
+Warranty Info#Информация о гарантии
+Warranty Months#Срок гарантии
+Warranty#Гарантия
+Warr. Rem. days#Осталось грантии
+Width#Ширина
+Yes#ДА
+You forgot to select the file?#Забыли выбрать файл?
+Clone#Клонировать
+Warning#Предупреждение
+<b>status</b> of this item  different from status of associated item#<b>Статус</b> этого оборудования отличается от статуса связанного оборудования
+<b>location</b> of this item  different from location of associated item#<b>Местоположение</b> этого оборудования отличается от статуса связанного оборудования
+<b>user</b> of this item  different from user of associated item#<b>Пользователь</b> этого оборудования отличается от статуса связанного оборудования
+No racks in location#Нет стоек в этом месте
+No areas defined#Не задано месторасположение
+Barcode Size#Размер QR-кода
+<br>In the PDF printing dialog,#<br>В диалоге печати PDF
+<b>uncheck</b> 'auto-rotate & center'</b>#<b>Снимите</b> отметку "Автоповорот и центр"
+Click 'Make Item Labels'#Нажмите "Сгенерировать ярлыки оборудования"
+Company Title#Название компании
+Currency#Валюта
+Date Format#Формат даты
+Header#Заголовок
+Header Image#Изображение в заголовке
+Header Text#Текст заголовка
+Image Size (WxH)#Размер изображения (ВхШ)
+Interface Language#Язык интерфейса
+ITDB Settings#Настройки
+Language#Язык
+Paper Size#Размер бумаги
+QR Barcode#QR-код
+Save#Сохранить
+set <b>'Page Scaling'</b> to <b>'None'</b>#выберите <b>'Масштаб страницы'</b> на <b>'Нет'</b>
+Settings#Настройки
+Translations#Переводы
+Users, Tags, Dates, Currency,...#Пользователи, Теги, Даты, Валюта ...
